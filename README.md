@@ -1,4 +1,4 @@
-# P1X TACTICAL LOTTERY
+# TACTICAL LOTTERY
 
 Simple app for our PGA booth so customers can win some awesome prizes.
 
@@ -10,11 +10,14 @@ Simple app for our PGA booth so customers can win some awesome prizes.
 
 ## App frontend design
 
-Pictures with all the prizes. 
-Under each picture there is a little fake LED.
+Pictures with all the prizes. Under each picture there is a little fake LED.
+
 Each LED is blinking in round. Quite fast.
+
 Then there is a button: "The lucky button".
+
 After pressing the prize that have LED turned on in that moment is the wining one.
+
 Prizes that are no longer available will be desatureted and LED hidden.
 
 ## App backend design
